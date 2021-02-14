@@ -1,0 +1,2 @@
+# etchostblacklist
+/etc/hosts blacklist
